@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a>
     <img
-    src="https://github-readme-stats-g82dwixsp-lsan31296s-projects.vercel.app/api?username=lsan31296&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide=issues,stars,contribs&theme=dark"
+    src="https://github-readme-stats-topaz-omega-85.vercel.app/api?username=lsan31296&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide=issues,stars,contribs&theme=dark"
     width="54%"
     height=200
     alt="lang graph" />  
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   
   <a>
     <img
-    src="https://github-readme-stats-g82dwixsp-lsan31296s-projects.vercel.app/api/top-langs?username=lsan31296&size_weight=0&count_weight=1&layout=compact"
+    src="https://github-readme-stats-topaz-omega-85.vercel.app/api/top-langs?username=lsan31296&size_weight=0&count_weight=1&layout=compact"
     width="45%"
     height=200
     alt="lang graph" />
