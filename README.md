@@ -36,7 +36,7 @@ I'm **Luis**, a passionate **Web Developer** with a knack for mathematics and bu
     <img
     src="https://github-readme-stats-nine-psi-84.vercel.app/api/top-langs?username=lsan31296&size_weight=0&count_weight=1&layout=compact&theme=blue-green"
     width="45%"
-    height=199
+    height=198
     alt="lang graph" />
   </a>
 </div>
