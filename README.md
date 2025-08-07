@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - src="https://github-readme-stats-topaz-omega-85.vercel.app/api?username=lsan31296&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide=issues,stars,contribs&theme=dark" NOT WORKING
 -->
-# 🙋🏼‍♂️ Me
+# 🙋🏻‍♂️ Me
 
 I'm **Luis**, a passionate **Web Developer** with a knack for mathematics and building interactive digital experiences. I graduated from the University of Central Florida with a B.S. in Mathematics, and I love solving real-world problems with code.
 
