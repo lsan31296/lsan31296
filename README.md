@@ -28,7 +28,7 @@ I'm **Luis**, a passionate **Web Developer** with a knack for mathematics and bu
     <img
     src="https://github-readme-stats-nine-psi-84.vercel.app/api?username=lsan31296&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide=issues,stars,contribs&theme=blue-green"
     width="54%"
-    height=202
+    height=204
     align="center"
     alt="lang graph" />  
   </a>
