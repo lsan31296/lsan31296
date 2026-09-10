@@ -8,22 +8,16 @@
 </p>
 <h1>🏋️‍♂️ Work</h1>
 
-<table> 
-  <tr> 
-    <td width="49%" align="center"> 
-      <img src="https://github-readme-stats-nine-psi-84.vercel.app/api?username=lsan31296&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide=issues,stars,contribs&theme=radical&card_width=495" 
-        width="100%" 
-        alt="GitHub Stats" 
-      /> 
-    </td> 
-    <td width="51%" align="center"> 
-      <img src="https://github-readme-stats-nine-psi-84.vercel.app/api/top-langs?username=lsan31296&size_weight=0&count_weight=1&layout=compact&theme=radical&card_width=495" 
-        width="100%" 
-        alt="Top Languages" 
-      /> 
-    </td> 
-  </tr> 
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats-nine-psi-84.vercel.app/api?username=lsan31296&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide=issues,stars,contribs&theme=radical&card_width=500&card_height=200"
+    width="49%"
+    alt="GitHub stats" />
+  <img
+    src="https://github-readme-stats-nine-psi-84.vercel.app/api/top-langs?username=lsan31296&size_weight=0&count_weight=1&layout=compact&theme=radical&card_width=500&card_height=210"
+    width="49%"
+    alt="Top languages" />
+</p>
 <!-- <div align="center">
   <a>
     <img
