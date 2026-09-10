@@ -8,11 +8,27 @@
 </p>
 <h1>🏋️‍♂️ Work</h1>
 
-<div align="center">
+<table> 
+  <tr> 
+    <td width="49%" align="center"> 
+      <img src="https://github-readme-stats-nine-psi-84.vercel.app/api?username=lsan31296&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide=issues,stars,contribs&theme=radical&card_width=495" 
+        width="100%" 
+        alt="GitHub Stats" 
+      /> 
+    </td> 
+    <td width="51%" align="center"> 
+      <img src="https://github-readme-stats-nine-psi-84.vercel.app/api/top-langs?username=lsan31296&size_weight=0&count_weight=1&layout=compact&theme=radical&card_width=495" 
+        width="100%" 
+        alt="Top Languages" 
+      /> 
+    </td> 
+  </tr> 
+</table>
+<!-- <div align="center">
   <a>
     <img
     src="https://github-readme-stats-nine-psi-84.vercel.app/api?username=lsan31296&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide=issues,stars,contribs&theme=radical"
-    width="54%"
+    width="50%"
     height=206
     align="center"
     alt="lang graph" />  
@@ -26,7 +42,7 @@
     align="center"
     alt="lang graph" />
   </a>
-</div>
+</div> -->
 
 <h3>🚀 Languages and Tools</h3>
   <div align="center">
