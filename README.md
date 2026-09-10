@@ -14,8 +14,8 @@
     width="49%"
     alt="GitHub stats" />
   <img
-    src="https://github-readme-stats-nine-psi-84.vercel.app/api/top-langs?username=lsan31296&size_weight=0&count_weight=1&layout=compact&theme=radical&card_width=500&card_height=210"
-    width="49%"
+    src="https://github-readme-stats-nine-psi-84.vercel.app/api/top-langs?username=lsan31296&size_weight=0&count_weight=1&layout=compact&theme=radical&card_width=500&card_height=200"
+    width="50%"
     alt="Top languages" />
 </p>
 <!-- <div align="center">
